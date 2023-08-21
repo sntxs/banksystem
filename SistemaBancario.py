@@ -1,6 +1,6 @@
 valorAtual = 5455
 
-for _ in range(3):  # Aqui você pode especificar o número de iterações
+for _ in range(3):  
     print(
         f"""
         ======================================
